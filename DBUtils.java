@@ -1,0 +1,1 @@
+Hello this function contains the DB Connection logic..
